@@ -1,0 +1,19 @@
+# Ignorar directorios con permisos denegados
+AppData/
+Configuración local/
+Cookies/
+Datos de programa/
+Documents/Mi música/
+Documents/Mis imágenes/
+Documents/Mis vídeos/
+Entorno de red/
+Impresoras/
+Menú Inicio/
+Mis documentos/
+Plantillas/
+Reciente/
+SendTo/
+
+# Ignorar archivos específicos con problemas
+.bash_history
+AppData/Local/AMD/DX9Cache/940dc833.bin
